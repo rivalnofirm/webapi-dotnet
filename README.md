@@ -13,3 +13,8 @@ Create Restful API using ASP.NET CORE 3.1
     - dotnet ef migrations add InitialMigration
     - dotnet ef database update
     - dotnet ef migrations remove (remove database)
+
+
+## Runing Applications
+    - donet build
+    - dotnet run
